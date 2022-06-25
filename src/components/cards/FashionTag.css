@@ -1,0 +1,15 @@
+.fashion_card{
+    max-width: 40rem;
+    height: auto;
+}
+
+
+.fashion_card a p{
+    font-size: .9rem;
+    font-weight: 500;
+    color: #212121;
+}
+
+.fashion_card a p:hover{
+    color: #0D6EFD;
+}

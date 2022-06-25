@@ -1,0 +1,33 @@
+.logintag{
+    width: 13.5rem;
+    height: auto;
+}
+
+.text a{
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+
+.text a:hover{
+    text-decoration: none;
+    font-size: 1rem;
+    color: #2727f3;
+ 
+}
+
+.icons ion-icon{
+    width: 1.3rem;
+    height: 1.3rem;
+    color: #2727f3;
+}
+
+
+.plus{
+    width: 1.5rem;
+    height: 1.5rem;
+    color: #2727f3;
+}
+.option_card p{
+    font-size: 1rem;
+}

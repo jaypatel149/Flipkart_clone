@@ -1,0 +1,20 @@
+.header{
+    width: 100%;
+    box-shadow: 0 1px 1px 0 rgb(0 0 0 / 16%);
+}
+
+.images img{
+    width: 4.5rem;
+}
+
+.textName a{
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 14px;
+    color: #000;
+}
+.textName a:hover{
+    color: rgba(16 , 116, 240);
+    
+}
+

@@ -1,0 +1,85 @@
+
+.flipkart {
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    justify-content: center;
+}
+.flipkart a{
+    font-style: italic;
+    color: white;
+    font-size: .8rem;
+    text-decoration: none;
+}
+
+p{
+    cursor: pointer;
+}
+.icon ion-icon{
+    color: white;
+    cursor: pointer;
+}
+
+a:hover{
+    color: white;
+    text-decoration: underline;
+
+}
+.flipkart a span{
+    font-style: italic;
+    color: #ffe500;;
+}
+
+.flipkart img{
+    width: 4.7rem;
+}
+.input-group-text{
+    background-color: white;
+}
+.input-group-text img{
+    width: 2rem;  
+}
+
+input,.input-group-text{
+    padding: 0 16px;
+    border: 0;
+    outline: 0 none;
+    font-size: 14px;
+    height: 36px;
+
+}
+
+.btn{
+    width: 7.7rem;
+    height: 36px;
+    padding: 0 16px;
+}
+.btn-light {
+    font-weight: 500;
+    color: #2874f0;
+    background-color: #f8f9fa;
+    border-color: #f8f9fa;
+}
+
+.btn-light:hover {
+    font-weight: 500;
+    color: #2874f0;
+    background-color: #f8f9fa;
+    border-color: #f8f9fa;
+}
+
+
+
+.input-group>.form-control, .input-group>.form-select {
+   border-inline-end: none;
+}
+
+.forColorWhite{
+    color: #f8f9fa;
+    font-weight: 500;
+    display: flex;
+}
+
+.cartIcon img{
+    width: 2rem;
+}
